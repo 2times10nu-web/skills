@@ -1,4 +1,4 @@
-# skills
+# npx skills add smartcontractkit/chainlink-agent-skills --skill chainlink-cre-skill
 
 The CLI for the open agent skills ecosystem.
 
